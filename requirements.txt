@@ -1,0 +1,8 @@
+# test
+rstcheck
+
+# translation
+sphinx-intl
+
+# build
+sphinx_rtd_theme

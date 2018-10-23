@@ -7,6 +7,6 @@ Automate your publishing to PyPI with PBR and Travis!
 =====================================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
 
    main.rst
